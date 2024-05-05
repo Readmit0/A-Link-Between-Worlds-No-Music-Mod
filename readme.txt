@@ -6,4 +6,4 @@ This mod mutes ALL of the BGM, but get-item jingles have been kept in to maintai
 
 Please download the mod at the following link:
 
-https://www.mediafire.com/file/fojcllxiu6l49px/A+Link+Between+Worlds+-+No+Music+mod.zip/file
+https://www.mediafire.com/file/fojcllxiu6l49px/A_Link_Between_Worlds_-_No_Music_mod.zip/file
